@@ -19,7 +19,7 @@
         <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
         <entry key="EditorBasics.Move" value="NOT_PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
-        <entry key="EditorBasics.Selection" value="NOT_PASSED" />
+        <entry key="EditorBasics.Selection" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
@@ -34,11 +34,27 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
-        <entry key="EditorBasics.Selection">
+        <entry key="EditorBasics.CommentLine">
           <value>
             <StatisticData>
               <option name="state" value="STARTED" />
-              <option name="timestamp" value="1532382310394" />
+              <option name="timestamp" value="1532382764654" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.DeleteLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1532383337738" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="433214" />
             </StatisticData>
           </value>
         </entry>
