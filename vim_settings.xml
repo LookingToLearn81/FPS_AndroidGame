@@ -6,9 +6,28 @@
       <file name="/Dummy.txt" timestamp="1532382678300">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/sbtShell" timestamp="1532383734496">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgRHVwbGljYXRlRGVtbyB7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgRHVwbGljYXRlRGVtbyB7Cg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -23,8 +42,14 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
