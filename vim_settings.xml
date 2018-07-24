@@ -6,11 +6,14 @@
       <file name="/Dummy.txt" timestamp="1532382678300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1532383734496">
+      <file name="/sbtShell" timestamp="1532385527801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532384328846">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1532385910831">
+        <mark key="[" line="13" column="26" />
       </file>
     </filemarks>
     <jumps />
@@ -37,6 +40,9 @@
     </search>
     <history>
       <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
